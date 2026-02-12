@@ -101,7 +101,7 @@ export default function HomePage() {
             );
             if (data.status === "completed" && data.total_questions > 0) {
               try {
-                const qRes = await fetch(`/api/questions/${task.task_id}`);
+                const qRes = await fetch(`${API_BASE}/api/questions/${taskId}`);
                 const qData = await qRes.json();
                 if (qData.questions && qData.questions.length > 0) {
                   setPreviewQuestions((prev) => {
