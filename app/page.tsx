@@ -65,7 +65,7 @@ export default function HomePage() {
     fileArray.forEach((f) => formData.append("files", f));
 
     try {
-      const res = await fetch("/api/upload", { method: "POST", body: formData });
+      const res = await fetch(`${API_BASE}/api/upload`, { method: "POST", body: formData });
       const data = await res.json();
       if (data.files) {
         const newTasks: FileTask[] = data.files.map((f: { task_id: string; filename: string; status: string; error?: string }) => ({
