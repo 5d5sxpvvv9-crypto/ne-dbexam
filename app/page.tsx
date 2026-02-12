@@ -94,7 +94,7 @@ export default function HomePage() {
         const pendingTasks = tasks.filter((t) => t.status === "queued" || t.status === "processing");
         for (const task of pendingTasks) {
           try {
-            const res = await fetch(`/api/status/${task.task_id}`);
+            const res = await fetch(`${API_BASE}/api/status/${taskId}`);
             const data = await res.json();
             setTasks((prev) =>
               prev.map((t) => (t.task_id === task.task_id ? { ...t, ...data } : t))
