@@ -50,6 +50,7 @@ const TYPE_COLORS: Record<string, { bg: string; text: string }> = {
 };
 
 export default function HomePage() {
+  const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || "";
   const [tasks, setTasks] = useState<FileTask[]>([]);
   const [previewQuestions, setPreviewQuestions] = useState<Question[]>([]);
   const [detailQuestion, setDetailQuestion] = useState<Question | null>(null);
