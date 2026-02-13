@@ -90,6 +90,8 @@ export default function HomePage() {
   useEffect(() => {
     const hasPending = tasks.some((t) => t.status === "queued" || t.status === "processing");
     if (hasPending) {
+      if (pollingRef.current) clearInterval(pollingRef.current);
+      pollingRef.current = null;
       pollingRef.current = setInterval(async () => {
         const pendingTasks = tasks.filter((t) => t.status === "queued" || t.status === "processing");
         for (const task of pendingTasks) {
