@@ -93,14 +93,14 @@ export default function HomePage() {
         const pendingTasks = tasks.filter((t) => t.status === "queued" || t.status === "processing");
         for (const task of pendingTasks) {
           try {
-            const res = await fetch(`/api/status/${task.task_id}`);
+            const res = await fetch(`${API_BASE}/api/status/${task.task_id}`);
             const data = await res.json();
             setTasks((prev) =>
               prev.map((t) => (t.task_id === task.task_id ? { ...t, ...data } : t))
             );
             if (data.status === "completed" && data.total_questions > 0) {
               try {
-                const qRes = await fetch(`/api/questions/${task.task_id}`);
+                const qRes = await fetch(`${API_BASE}/api/questions/${task.task_id}`);
                 const qData = await qRes.json();
                 if (qData.questions && qData.questions.length > 0) {
                   setPreviewQuestions((prev) => {
