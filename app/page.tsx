@@ -50,6 +50,7 @@ const TYPE_COLORS: Record<string, { bg: string; text: string }> = {
 };
 
 export default function HomePage() {
+  const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || "";
   const [tasks, setTasks] = useState<FileTask[]>([]);
   const [previewQuestions, setPreviewQuestions] = useState<Question[]>([]);
   const [detailQuestion, setDetailQuestion] = useState<Question | null>(null);
@@ -93,14 +94,14 @@ export default function HomePage() {
         const pendingTasks = tasks.filter((t) => t.status === "queued" || t.status === "processing");
         for (const task of pendingTasks) {
           try {
-            const res = await fetch(`${API_BASE}/api/status/${task.task_id}`);
+            const qRes = await fetch(`${API_BASE}/api/questions/${task.task_id}`);
             const data = await res.json();
             setTasks((prev) =>
               prev.map((t) => (t.task_id === task.task_id ? { ...t, ...data } : t))
             );
             if (data.status === "completed" && data.total_questions > 0) {
               try {
-                const qRes = await fetch(`${API_BASE}/api/questions/${task.task_id}`);
+                const qRes = await fetch(`/api/questions/${task.task_id}`);
                 const qData = await qRes.json();
                 if (qData.questions && qData.questions.length > 0) {
                   setPreviewQuestions((prev) => {
