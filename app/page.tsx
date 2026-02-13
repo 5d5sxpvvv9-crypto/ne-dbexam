@@ -66,6 +66,8 @@ export default function HomePage() {
     fileArray.forEach((f) => formData.append("files", f));
 
     try {
+      const reqId = crypto.randomUUID();
+      console.log("[upload] start", reqId);
       const res = await fetch(`${API_BASE}/api/upload`, { method: "POST", body: formData });
       const data = await res.json();
       if (data.files) {
