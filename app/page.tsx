@@ -97,14 +97,16 @@ export default function HomePage() {
             const res = await fetch(`${API_BASE}/api/status/${task.task_id}`);
             const data = await res.json();
             if (data.status === "completed" && data.total_questions > 0) {
+              setTasks((prev) =>
+                prev.map((t) =>
+                  t.task_id === task.task_id ? { ...t, status: "completed" } : t
+                )
+              );
               try {
                 const qRes = await fetch(`${API_BASE}/api/questions/${task.task_id}`);
                 const qData = await qRes.json();
                 if (qData.questions && qData.questions.length > 0) {
-                  setPreviewQuestions((prev) => {
-                    const existing = prev.filter((q) => q.question_number !== 0);
-                    return [...existing, ...qData.questions];
-                  });
+                  setPreviewQuestions(qData.questions);
                 }
               } catch {
                 // 무시
