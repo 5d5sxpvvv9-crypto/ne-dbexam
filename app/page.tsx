@@ -59,7 +59,8 @@ export default function HomePage() {
   const fileInputRef = useRef<HTMLInputElement>(null);
   const pollingRef = useRef<NodeJS.Timeout | null>(null);
   const tasksRef = useRef<FileTask[]>([]);
-  tasksRef.current = tasks;               // 항상 최신 tasks를 ref에 동기화
+  tasksRef.current = tasks;                          // 항상 최신 tasks를 ref에 동기화
+  const fetchedTaskIdsRef = useRef<Set<string>>(new Set());  // questions를 이미 fetch한 taskId
 
   // ── 파일 업로드 ──
   const uploadFiles = useCallback(async (files: FileList | File[]) => {
@@ -98,17 +99,23 @@ export default function HomePage() {
     .join(",");
 
   useEffect(() => {
-    if (!pendingTaskIds) return;          // 폴링 대상 없으면 즉시 종료
+    // ★ 폴링 대상이 0이면 interval을 생성하지 않음 (요구사항 6)
+    if (!pendingTaskIds) {
+      console.log("[polling] 대상 없음 — interval 미생성");
+      return;
+    }
 
     if (pollingRef.current) clearInterval(pollingRef.current);
     pollingRef.current = setInterval(async () => {
-      // ref에서 최신 tasks를 읽어 setTasks 호출 없이 pending 목록 확인
+      // ref에서 최신 tasks를 읽어 pending 목록 확인 (요구사항 5)
       const currentTasks = tasksRef.current;
       const pending = currentTasks.filter(
         (t) => t.status === "queued" || t.status === "processing"
       );
 
+      // 모두 완료됐으면 interval 자체를 정리
       if (pending.length === 0) {
+        console.log("[polling] pending 0 → interval 정리");
         if (pollingRef.current) { clearInterval(pollingRef.current); pollingRef.current = null; }
         return;
       }
@@ -118,7 +125,7 @@ export default function HomePage() {
           const res = await fetch(`${API_BASE}/api/status/${task.task_id}`);
           const data = await res.json();
 
-          // completed 또는 failed → 상태 확정 후 더 이상 폴링하지 않음
+          // completed 또는 failed → 상태 확정 (요구사항 3, 5)
           if (data.status === "completed" || data.status === "failed") {
             setTasks((prev) =>
               prev.map((t) =>
@@ -128,17 +135,39 @@ export default function HomePage() {
               )
             );
 
-            // completed일 때만 한 번 questions fetch
-            if (data.status === "completed" && data.total_questions > 0) {
+            // ★ completed + 아직 fetch하지 않은 taskId일 때만 1회 fetch (요구사항 1, 2, 3)
+            if (
+              data.status === "completed" &&
+              data.total_questions > 0 &&
+              !fetchedTaskIdsRef.current.has(task.task_id)
+            ) {
+              fetchedTaskIdsRef.current.add(task.task_id);   // 선점(fetch 전에 등록)
+              console.log(`[questions] fetch 시작 — taskId=${task.task_id} (최초 1회)`);
+
               try {
                 const qRes = await fetch(`${API_BASE}/api/questions/${task.task_id}`);
                 const qData = await qRes.json();
                 if (qData.questions?.length > 0) {
-                  setPreviewQuestions(qData.questions);
+                  // ★ 덮어쓰기: 동일 taskId 문항은 교체, 다른 taskId 문항은 유지 (요구사항 4)
+                  setPreviewQuestions((prev) => {
+                    const incomingNumbers = new Set(
+                      qData.questions.map((q: Question) => `${task.task_id}_${q.question_number}`)
+                    );
+                    const kept = prev.filter(
+                      (q) => !incomingNumbers.has(`${task.task_id}_${q.question_number}`)
+                    );
+                    return [...kept, ...qData.questions];
+                  });
+                  console.log(`[questions] fetch 완료 — taskId=${task.task_id}, ${qData.questions.length}문항`);
                 }
               } catch {
-                // 무시
+                // fetch 실패 시 재시도할 수 있도록 Set에서 제거
+                fetchedTaskIdsRef.current.delete(task.task_id);
+                console.warn(`[questions] fetch 실패 — taskId=${task.task_id} (다음 폴링에서 재시도)`);
               }
+            } else if (fetchedTaskIdsRef.current.has(task.task_id)) {
+              // ★ 이미 fetch한 taskId가 다시 도달한 경우 — 검증 로그 (요구사항 7)
+              console.log(`[questions] SKIP — taskId=${task.task_id} 이미 fetch 완료`);
             }
           }
         } catch {
