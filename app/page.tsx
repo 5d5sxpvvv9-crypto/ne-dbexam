@@ -58,6 +58,8 @@ export default function HomePage() {
   const [isExporting, setIsExporting] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
   const pollingRef = useRef<NodeJS.Timeout | null>(null);
+  const tasksRef = useRef<FileTask[]>([]);
+  tasksRef.current = tasks;               // 항상 최신 tasks를 ref에 동기화
 
   // ── 파일 업로드 ──
   const uploadFiles = useCallback(async (files: FileList | File[]) => {
@@ -89,43 +91,66 @@ export default function HomePage() {
   }, []);
 
   // ── 상태 폴링 ──
+  // 의존성: pendingTaskIds (문자열) — tasks 객체 자체가 아닌 "아직 처리 중인 ID 목록"만 추적
+  const pendingTaskIds = tasks
+    .filter((t) => t.status === "queued" || t.status === "processing")
+    .map((t) => t.task_id)
+    .join(",");
+
   useEffect(() => {
-    const hasPending = tasks.some((t) => t.status === "queued" || t.status === "processing");
-    if (hasPending) {
-      if (pollingRef.current) clearInterval(pollingRef.current);
-      pollingRef.current = null;
-      pollingRef.current = setInterval(async () => {
-        const pendingTasks = tasks.filter((t) => t.status === "queued" || t.status === "processing");
-        for (const task of pendingTasks) {
-          try {
-            const res = await fetch(`${API_BASE}/api/status/${task.task_id}`);
-            const data = await res.json();
+    if (!pendingTaskIds) return;          // 폴링 대상 없으면 즉시 종료
+
+    if (pollingRef.current) clearInterval(pollingRef.current);
+    pollingRef.current = setInterval(async () => {
+      // ref에서 최신 tasks를 읽어 setTasks 호출 없이 pending 목록 확인
+      const currentTasks = tasksRef.current;
+      const pending = currentTasks.filter(
+        (t) => t.status === "queued" || t.status === "processing"
+      );
+
+      if (pending.length === 0) {
+        if (pollingRef.current) { clearInterval(pollingRef.current); pollingRef.current = null; }
+        return;
+      }
+
+      for (const task of pending) {
+        try {
+          const res = await fetch(`${API_BASE}/api/status/${task.task_id}`);
+          const data = await res.json();
+
+          // completed 또는 failed → 상태 확정 후 더 이상 폴링하지 않음
+          if (data.status === "completed" || data.status === "failed") {
+            setTasks((prev) =>
+              prev.map((t) =>
+                t.task_id === task.task_id
+                  ? { ...t, status: data.status, total_questions: data.total_questions || 0, error: data.error || null }
+                  : t
+              )
+            );
+
+            // completed일 때만 한 번 questions fetch
             if (data.status === "completed" && data.total_questions > 0) {
-              setTasks((prev) =>
-                prev.map((t) =>
-                  t.task_id === task.task_id ? { ...t, status: "completed" } : t
-                )
-              );
               try {
                 const qRes = await fetch(`${API_BASE}/api/questions/${task.task_id}`);
                 const qData = await qRes.json();
-                if (qData.questions && qData.questions.length > 0) {
+                if (qData.questions?.length > 0) {
                   setPreviewQuestions(qData.questions);
                 }
               } catch {
                 // 무시
               }
             }
-          } catch {
-            // 무시
           }
+        } catch {
+          // 네트워크 에러 — 다음 폴링에서 재시도
         }
-      }, 1500);
-    }
+      }
+    }, 1500);
+
     return () => {
-      if (pollingRef.current) clearInterval(pollingRef.current);
+      if (pollingRef.current) { clearInterval(pollingRef.current); pollingRef.current = null; }
     };
-  }, [tasks]);
+  }, [pendingTaskIds]);
 
   // ── 드래그&드롭 ──
   const handleDragOver = useCallback((e: React.DragEvent) => {
@@ -149,7 +174,7 @@ export default function HomePage() {
     setIsExporting(true);
     try {
       const completedIds = tasks.filter((t) => t.status === "completed").map((t) => t.task_id);
-      const res = await fetch("${API_BASE}/api/export/excel", {
+      const res = await fetch(`${API_BASE}/api/export/excel`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(completedIds),
