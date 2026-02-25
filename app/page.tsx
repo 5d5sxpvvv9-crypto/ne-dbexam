@@ -55,6 +55,7 @@ export default function HomePage() {
   const [previewQuestions, setPreviewQuestions] = useState<Question[]>([]);
   const [detailQuestion, setDetailQuestion] = useState<Question | null>(null);
   const [isDragging, setIsDragging] = useState(false);
+  const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [isExporting, setIsExporting] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
   const pollingRef = useRef<NodeJS.Timeout | null>(null);
@@ -68,6 +69,7 @@ export default function HomePage() {
     const fileArray = Array.from(files);
     fileArray.forEach((f) => formData.append("files", f));
 
+    setIsAnalyzing(true);
     try {
       const reqId = crypto.randomUUID();
       console.log("[upload] start", reqId);
@@ -84,10 +86,14 @@ export default function HomePage() {
           metadata: {},
         }));
         setTasks((prev) => [...prev, ...newTasks.filter((t: FileTask) => t.task_id)]);
+      } else {
+        // 서버가 files를 반환하지 않은 경우 즉시 해제
+        setIsAnalyzing(false);
       }
     } catch (err) {
       console.error("업로드 실패:", err);
       alert("파일 업로드에 실패했습니다. 서버 연결을 확인해주세요.");
+      setIsAnalyzing(false);
     }
   }, []);
 
@@ -102,6 +108,7 @@ export default function HomePage() {
     // ★ 폴링 대상이 0이면 interval을 생성하지 않음 (요구사항 6)
     if (!pendingTaskIds) {
       console.log("[polling] 대상 없음 — interval 미생성");
+      setIsAnalyzing(false);
       return;
     }
 
@@ -257,9 +264,9 @@ export default function HomePage() {
       <main className="max-w-7xl mx-auto px-6 py-8">
         {/* ── 업로드 영역 ── */}
         <div
-          onClick={() => fileInputRef.current?.click()}
-          className="border-2 border-dashed border-gray-300 rounded-xl p-12 text-center mb-8
-                     hover:border-gray-400 hover:bg-gray-50/50 transition-all cursor-pointer group bg-white"
+          onClick={() => !isAnalyzing && fileInputRef.current?.click()}
+          className={`relative border-2 border-dashed border-gray-300 rounded-xl p-12 text-center mb-8
+                     transition-all bg-white ${isAnalyzing ? "cursor-not-allowed opacity-80" : "hover:border-gray-400 hover:bg-gray-50/50 cursor-pointer group"}`}
         >
           <div className="flex flex-col items-center justify-center">
             <svg className="w-16 h-16 mb-4 group-hover:scale-110 transition-transform" style={{ color: PRIMARY_COLOR }} fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -276,8 +283,14 @@ export default function HomePage() {
             accept=".hwp,.hwpx"
             multiple
             className="hidden"
+            disabled={isAnalyzing}
             onChange={(e) => e.target.files && uploadFiles(e.target.files)}
           />
+          {isAnalyzing && (
+            <div className="absolute inset-0 flex items-center justify-center rounded-xl bg-white/70 backdrop-blur-sm">
+              <div className="h-12 w-12 animate-spin rounded-full border-4 border-gray-200 border-t-blue-600" />
+            </div>
+          )}
         </div>
 
         {/* ── 처리 상태 표시 ── */}
