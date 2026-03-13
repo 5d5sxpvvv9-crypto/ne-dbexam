@@ -23,6 +23,7 @@ interface Question {
   choices: string;
   answer: string;
   question_type: string;       // Vocabulary | Reading/Comprehension | Grammar | Listening
+  question_format: string;     // 객관식 | 서술형
   confidence: number;
   notes: string;
   passage_group_id: number | null;
@@ -363,6 +364,7 @@ export default function HomePage() {
                     <th className="px-3 py-3 text-left text-xs font-semibold text-gray-600 uppercase" style={{ minWidth: 180 }}>보기/조건</th>
                     <th className="px-3 py-3 text-center text-xs font-semibold text-gray-600 uppercase w-16">정답</th>
                     <th className="px-3 py-3 text-center text-xs font-semibold text-gray-600 uppercase w-28">문제유형</th>
+                    <th className="px-3 py-3 text-center text-xs font-semibold text-gray-600 uppercase w-20">문항형태</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-gray-100">
@@ -392,6 +394,17 @@ export default function HomePage() {
                             style={{ backgroundColor: typeStyle.bg, color: typeStyle.text }}
                           >
                             {q.question_type || "-"}
+                          </span>
+                        </td>
+                        <td className="px-3 py-3 text-center">
+                          <span
+                            className={`inline-block text-xs px-2 py-0.5 rounded-full font-medium ${
+                              q.question_format === "서술형"
+                                ? "bg-orange-100 text-orange-700"
+                                : "bg-blue-100 text-blue-700"
+                            }`}
+                          >
+                            {q.question_format || "-"}
                           </span>
                         </td>
                       </tr>
@@ -447,9 +460,10 @@ export default function HomePage() {
               <DetailSection title="공통지문" content={detailQuestion.common_passage} />
               <DetailSection title="문제지문" content={detailQuestion.question_passage} />
               <DetailSection title="보기/조건" content={detailQuestion.choices} />
-              <div className="grid grid-cols-3 gap-4">
+              <div className="grid grid-cols-4 gap-4">
                 <DetailSection title="정답" content={detailQuestion.answer} />
                 <DetailSection title="문제유형" content={detailQuestion.question_type} />
+                <DetailSection title="문항형태" content={detailQuestion.question_format} />
                 <DetailSection title="학교 / 학년" content={`${detailQuestion.school || "-"} / ${detailQuestion.grade || "-"}`} />
               </div>
               <div className="grid grid-cols-3 gap-4">
