@@ -1,0 +1,63 @@
+======================================================================
+  일괄 파싱 검증 결과 요약
+  실행 시각: 2026-03-17 14:49:57
+  총 소요 시간: 211초 (3.5분)
+======================================================================
+
+  총 파일 수:        354
+  파싱 성공 (이슈 없음): 99  (28.0%)
+  파싱 성공 (이슈 있음): 255  (72.0%)
+  파싱 실패:          0  (0.0%)
+
+  --- 이슈 유형별 발생 횟수 ---
+    정답 매핑 실패                       : 228건
+    객관식 선지 미검출                     : 207건
+    문항수-정답수 불일치                    : 139건
+    두 문제 병합 의심                     : 66건
+    객관식 선지 미검출 의심 (서술형으로 분류됨)      : 26건
+    문항번호 중복                        : 18건
+    보기 파싱 실패                       : 13건
+
+  --- 이슈 많은 파일 TOP 20 ---
+    [19건] 2025년_중2_2학기 기말_신천중학교_서울시 송파구_NE능률(김성곤).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(2), NO_ANSWER(13), SUSPECTED_MERGE(3)
+    [13건] 2025년_중2_2학기 기말_학산중학교_대구시 달서구_동아(윤정미).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), SUSPECTED_MERGE(4), OBJECTIVE_NO_CHOICES(3), NO_ANSWER(5)
+    [8건] 2025년_중1_2학기 중간_청량중학교_인천시 연수구_동아(윤정미).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(3), NO_ANSWER(3), LIKELY_OBJECTIVE_NO_CHOICES(1)
+    [8건] 2025년_중2_1학기 기말_대전외삼중학교_대전시 유성구_동아(이병민).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(2), NO_ANSWER(5)
+    [8건] 2025년_중2_1학기 중간_신천중학교_서울시 송파구_NE능률(김성곤).hwp
+           DUPLICATE_NUMBERS(1), QUESTION_ANSWER_COUNT_MISMATCH(1), SUSPECTED_MERGE(2), NO_ANSWER(3), OBJECTIVE_NO_CHOICES(1)
+    [8건] 2025년_중2_1학기 중간_잠신중학교_서울시 송파구_동아(윤정미).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(1), NO_ANSWER(6)
+    [8건] 2025년_중2_1학기 중간_장기중학교_경기도 김포시_동아(윤정미).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(5), SUSPECTED_MERGE(1), NO_ANSWER(1)
+    [8건] 2025년_중2_2학기 기말_군산금강중학교_전라북도 군산시_비상(김진완).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), NO_ANSWER(4), OBJECTIVE_NO_CHOICES(3)
+    [7건] 2025년_중1_2학기 중간_옥현중학교_울산시 남구_동아(윤정미).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(1), NO_ANSWER(5)
+    [7건] 2025년_중2_1학기 기말_신천중학교_서울시 송파구_NE능률(김성곤).hwp
+           OBJECTIVE_NO_CHOICES(2), NO_ANSWER(2), SUSPECTED_MERGE(3)
+    [7건] 2025년_중2_1학기 중간_하성중학교_경기도 김포시_NE능률(김성곤).hwp
+           DUPLICATE_NUMBERS(1), QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(2), LIKELY_OBJECTIVE_NO_CHOICES(3)
+    [7건] 2025년_중2_2학기 기말_군자중학교_경기도 시흥시_YBM(송미정).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(1), NO_ANSWER(4), SUSPECTED_MERGE(1)
+    [7건] 2025년_중2_2학기 기말_대건중학교_대구시 달서구_동아(이병민).hwp
+           DUPLICATE_NUMBERS(1), QUESTION_ANSWER_COUNT_MISMATCH(1), CHOICES_PARSE_FAIL(1), LIKELY_OBJECTIVE_NO_CHOICES(1), NO_ANSWER(3)
+    [7건] 2025년_중2_2학기 기말_월암중학교_대구시 달서구_미래엔(최연희).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(3), SUSPECTED_MERGE(1), NO_ANSWER(2)
+    [7건] 2025년_중2_2학기 중간_금천중학교_충청북도 청주시_천재(정사열).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(2), NO_ANSWER(4)
+    [7건] 2025년_중2_2학기 중간_수완중학교_광주시 광산구_동아(윤정미).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), NO_ANSWER(5), OBJECTIVE_NO_CHOICES(1)
+    [7건] 2025년_중2_2학기 중간_신천중학교_서울시 송파구_NE능률(김성곤).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(2), NO_ANSWER(2), SUSPECTED_MERGE(2)
+    [7건] 2025년_중2_2학기 중간_해마루중학교_경상북도 구미시_미래엔(최연희).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), NO_ANSWER(5), OBJECTIVE_NO_CHOICES(1)
+    [6건] 2025년_중1_1학기 기말_운동중학교_충청북도 청주시_동아(윤정미).hwp
+           QUESTION_ANSWER_COUNT_MISMATCH(1), OBJECTIVE_NO_CHOICES(2), NO_ANSWER(3)
+    [6건] 2025년_중1_1학기 중간_잠신중학교_서울시 송파구_YBM(박준언).hwp
+           DUPLICATE_NUMBERS(1), QUESTION_ANSWER_COUNT_MISMATCH(1), CHOICES_PARSE_FAIL(3), LIKELY_OBJECTIVE_NO_CHOICES(1)
+
+======================================================================

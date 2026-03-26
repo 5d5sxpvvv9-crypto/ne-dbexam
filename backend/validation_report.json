@@ -1,0 +1,6231 @@
+[
+  {
+    "filename": "2022년_중3_2학기 중간_한재중학교_전라남도 담양군_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 30,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q30: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2024년_중3_1학기 기말_도래울중학교_경기도 고양시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 22,
+    "total_answers": 22,
+    "issues": []
+  },
+  {
+    "filename": "2024년_중3_1학기 중간_버들중학교_강원도 원주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 22,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=22, 정답키감지=2, 정답있는문항=22"
+      }
+    ]
+  },
+  {
+    "filename": "2024년_중3_1학기 중간_퇴계중학교_강원도 춘천시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=24, 정답있는문항=27"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q9: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2024년_중3_1학기 중간_화성동화중학교_경기도 화성시_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=2, 정답있는문항=24"
+      }
+    ]
+  },
+  {
+    "filename": "2024년_중3_2학기 기말_김포중학교_경기도 김포시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 21,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=21, 정답키감지=3, 정답있는문항=21"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q2: 문제지문이 비정상적으로 길음 (813자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q12: 문제지문이 비정상적으로 길음 (825자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2024년_중3_2학기 중간_버들중학교_강원도 원주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 21,
+    "total_answers": 21,
+    "issues": []
+  },
+  {
+    "filename": "2024년_중3_2학기 중간_부천일신중학교_경기도 부천시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q1: 문제지문이 비정상적으로 길음 (973자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q4: 문제지문이 비정상적으로 길음 (911자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q19: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_경덕중학교_충청북도 청주시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=26, 정답있는문항=29"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q16: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q18: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_군산동원중학교_전라북도 군산시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_남성중학교_충청북도 청주시_비상(황종배).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_다사중학교_대구시 달성구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=2, 정답있는문항=28"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_대성중학교_충청북도 청주시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 23,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_복대중학교_충청북도 청주시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_봉명중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_산남중학교_충청북도 청주시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_서원중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_세광중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 20,
+    "total_answers": 20,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_솔밭중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 27,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_송절중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q14: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_수곡중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q11: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_수송중학교_서울시 강북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=3, 정답있는문항=24"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_신명중학교_서울시 강동구_미래엔(문영인).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=3, 정답있는문항=26"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_영남중학교_대구시 달서구_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 22,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q11: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_옥천여자중학교_충청북도 옥천군_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 23,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_옥천중학교_충청북도 옥천군_비상(황종배).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_용성중학교_충청북도 청주시_미래엔(문영인).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=25, 정답있는문항=28"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_용아중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_운동중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=23, 정답있는문항=24"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q19: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q26: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q27: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_운호중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=25, 정답있는문항=27"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q21: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_원봉중학교_충청북도 청주시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q5: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_잠신중학교_서울시 송파구_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=4, 정답있는문항=29"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_주성중학교_충청북도 청주시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q21: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_청주동중학교_충청북도 청주시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 27,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_청주여자중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=25, 정답있는문항=29"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q16: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_청주중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_충북여자중학교_충청북도 청주시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 기말_학산중학교_대구시 달서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=25, 정답키감지=2, 정답있는문항=25"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_가경중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=31, 정답키감지=25, 정답있는문항=29"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q7: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q9: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_강일중학교_서울시 강동구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q17: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_경덕중학교_충청북도 청주시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_군산동원중학교_전라북도 군산시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 33,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=33, 정답키감지=2, 정답있는문항=31"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q21: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_금천중학교_충청북도 청주시_YBM(김은형).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q19: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q23: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_남성중학교_충청북도 청주시_비상(황종배).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q22: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_다사중학교_대구시 달성군_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=2, 정답있는문항=28"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q28: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_대성여자중학교_충청북도 청주시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_복대중학교_충청북도 청주시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 30,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q11: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_봉명중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=24, 정답있는문항=27"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q7: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q15: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_산남중학교_충청북도 청주시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_서원중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=4, 정답있는문항=26"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_서현중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_세광중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 22,
+    "total_answers": 20,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q6: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q9: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_솔밭중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 28,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_송절중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_수곡중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=25, 정답있는문항=27"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_수송중학교_서울시 강북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q8: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_영남중학교_대구시 달서구_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q4: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_오송중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 1,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=32, 정답키감지=1, 정답있는문항=30"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q8: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q12: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_옥천여자중학교_충청북도 옥천군_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 23,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_용성중학교_충청북도 청주시_미래엔(문영인).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_용아중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_운동중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_운호중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=25, 정답있는문항=28"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_원광중학교_전라북도 익산시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=25, 정답있는문항=28"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q10: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q23: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_원봉중학교_충청북도 청주시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_이일여자중학교_전라북도 익산시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 27,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q10: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q16: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_익산부천중학교_전라북도 익산시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=23, 정답있는문항=27"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q7: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_익산중학교_전라북도 익산시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q21: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q22: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q23: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_잠신중학교_서울시 송파구_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=4, 정답있는문항=28"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q2: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q8: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q16: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_종촌중학교_세종특별자치시 세종시_비상(황종배).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=26, 정답있는문항=28"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q7: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_주성중학교_충청북도 청주시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_청주동중학교_충청북도 청주시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q27: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_청주여자중학교_충청북도 청주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q17: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_청주중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_충북여자중학교_충청북도 청주시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_1학기 중간_학산중학교_대구시 달서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=2, 정답있는문항=26"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_공주여자중학교_충청남도 공주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_공주중학교_충청남도 공주시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=24, 정답있는문항=25"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q5: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q11: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_광성중학교_서울시 마포구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 33,
+    "total_answers": 33,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_군자중학교_경기도 시흥시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=2, 정답있는문항=26"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_권선중학교_경기도 수원시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 20,
+    "total_answers": 20,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_능동중학교_경기도 화성시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_박문중학교_인천시 연수구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_번동중학교_서울시 강북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=2, 정답있는문항=25"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q22: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_부명중학교_경기도 부천시_미래엔(문영인).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q15: 문제지문이 비정상적으로 길음 (815자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q23: 문제지문이 비정상적으로 길음 (919자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_산본중학교_경기도 군포시_미래엔(문영인).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q14: 문제지문이 비정상적으로 길음 (1256자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_상명중학교_서울시 노원구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 35,
+    "total_answers": 34,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q19: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_석우중학교_경기도 화성시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=2, 정답있는문항=24"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_선린중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 객관식인데 선지 없음"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q6: 서술형으로 분류됐으나 정답이 번호형('③') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_설화중학교_충청남도 아산시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q11: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_성암여자중학교_서울시 강북구_비상(황종배).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q6: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_세류중학교_경기도 수원시_지학사(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 20,
+    "total_answers": 19,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_수완하나중학교_광주시 광산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q29: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q30: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_신길중학교_경기도 안산시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=2, 정답있는문항=24"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q4: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q25: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_신정중학교_부산시 기장군_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 33,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=33, 정답키감지=3, 정답있는문항=28"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q24: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q29: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q30: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_신창중학교_서울시 노원구_지학사(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_신천중학교_서울시 송파구_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_심원중학교_경기도 부천시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q21: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_안양부흥중학교_경기도 안양시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q25: 문제지문이 비정상적으로 길음 (830자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_안천중학교_서울시 금천구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_우송중학교_대전시 동구_미래엔(문영인).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_울산제일중학교_울산시 중구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_윤슬중학교_경기도 하남시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_인창중학교_경기도 구리시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q19: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_인천신정중학교_인천시 연수구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q5: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_인천해원중학교_인천시 서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_정신여자중학교_서울시 송파구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 35,
+    "total_answers": 33,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_천안쌍용중학교_충청남도 천안시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_천안용곡중학교_충청남도 천안시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_청계중학교_경기도 화성시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=23, 정답키감지=2, 정답있는문항=23"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_청량중학교_인천시 연수구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_토평중학교_경기도 구리시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q18: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_풍성중학교_서울시 송파구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 27,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q6: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 기말_한들물빛중학교_충청남도 아산시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q9: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q24: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_가람중학교_부산시 북구_비상(황종배).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=3, 정답있는문항=28"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_감계중학교_경상남도 창원시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=3, 정답있는문항=24"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q15: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_고덕중학교_서울시 강동구_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_공주여자중학교_충청남도 공주시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_공주중학교_충청남도 공주시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q5: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_광성중학교_서울시 마포구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=4, 정답있는문항=26"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q23: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_구남중학교_부산시 북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=2, 정답있는문항=27"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_구미인덕중학교_경상북도 구미시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_구포중학교_부산시 북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=25, 정답있는문항=29"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_대전동산중학교_대전시 중구_비상(황종배).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_대전새미래중학교_대전시 유성구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_대전외삼중학교_대전시 유성구_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=26, 정답있는문항=28"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 서술형으로 분류됐으나 정답이 번호형('④') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_모동중학교_부산시 사상구_YBM(김은형).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 29,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_모라중학교_부산시 사상구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=23, 정답키감지=4, 정답있는문항=20"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q11: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_미금중학교_경기도 남양주시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=25, 정답있는문항=28"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q20: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_배곧해솔중학교_경기도 시흥시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_백석중학교_인천시 서구_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_번동중학교_서울시 강북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=3, 정답있는문항=26"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_범서중학교_울산시 울주군_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 27,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=27, 정답있는문항=28"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q26: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_봉황중학교_충청남도 공주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 5,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=5, 정답있는문항=26"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_산동중학교_경상북도 구미시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_살레시오중학교_광주시 북구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=25, 정답키감지=2, 정답있는문항=25"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_상명중학교_서울시 노원구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 35,
+    "total_answers": 30,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=35, 정답키감지=30, 정답있는문항=34"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q25: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q26: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q32: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_선린중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=2, 정답있는문항=28"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q18: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_설화중학교_충청남도 아산시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q9: 문제지문이 비정상적으로 길음 (826자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_성암여자중학교_서울시 강북구_비상(황종배).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_신광여자중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 23,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_신용중학교_광주시 북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=2, 정답있는문항=29"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_신월중학교_서울시 양천구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 30,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_신일중학교_서울시 강북구_YBM(김은형).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=4, 정답있는문항=28"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q27: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_신일중학교_울산시 남구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=2, 정답있는문항=27"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q7: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_신창중학교_서울시 노원구_지학사(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q6: 객관식인데 선지 없음"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q16: 서술형으로 분류됐으나 정답이 번호형('③') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_신천중학교_서울시 송파구_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 28,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_신현중학교_인천시 서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_안천중학교_서울시 금천구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_양산중학교_광주시 북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_옥계동부중학교_경상북도 구미시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q16: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_옥계중학교_경상북도 구미시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_옥현중학교_울산시 남구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=2, 정답있는문항=24"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q6: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q7: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q24: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_용두중학교_광주시 북구_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=4, 정답있는문항=27"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_울산제일중학교_울산시 중구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=2, 정답있는문항=25"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q23: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_울산중앙중학교_울산시 남구_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=3, 정답있는문항=26"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q23: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_유곡중학교_울산시 중구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [3, 4, 5, 6, 7, 8, 9, 10]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=3, 정답있는문항=24"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('④') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('④') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q14: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_인천경연중학교_인천시 서구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_인천루원중학교_인천시 서구_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_인천중학교_인천시 연수구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q22: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_인천청라중학교_인천시 서구_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_인천해원중학교_인천시 서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q11: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_인천현송중학교_인천시 연수구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_장검중학교_울산시 울주군_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 21,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=21, 정답키감지=4, 정답있는문항=21"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_지산중학교_광주시 북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 6,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=6, 정답있는문항=25"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q11: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_진평중학교_경상북도 구미시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_창문여자중학교_서울시 강북구_지학사(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 29,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_천생중학교_경상북도 구미시_천재(소영순).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_천안새샘중학교_충청남도 천안시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=3, 정답있는문항=25"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q5: 문제지문이 비정상적으로 길음 (1237자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q5: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_천안용곡중학교_충청남도 천안시_NE능률(김기택).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_청량중학교_인천시 연수구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=32, 정답키감지=26, 정답있는문항=29"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q9: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q11: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q22: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q31: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_풍성중학교_서울시 송파구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 1,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=1, 정답있는문항=27"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q27: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q28: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_학성여자중학교_울산시 중구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=2, 정답있는문항=25"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 서술형으로 분류됐으나 정답이 번호형('①') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_한들물빛중학교_충청남도 아산시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q15: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_해마루중학교_경상북도 구미시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=25, 정답있는문항=25"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q1: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기 중간_화성동화중학교_경기도 화성시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=2, 정답있는문항=25"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q12: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q27: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중1_2학기_기말_동구중학교_경기도 구리시_천재(이상기).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 22,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_공주북중학교_충청남도 공주시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_공주여자중학교_충청남도 공주시_YBM(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_공주중학교_충청남도 공주시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_구미인덕중학교_경상북도 구미시_비상(김진완).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_금옥중학교_서울시 양천구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=24, 정답있는문항=28"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q3: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q5: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q11: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q22: 문제지문이 비정상적으로 길음 (1041자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_대전동산중학교_대전시 중구_비상(김진완).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_대전새미래중학교_대전시 유성구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 5,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=5, 정답있는문항=27"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_대전신계중학교_대전시 서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_대전외삼중학교_대전시 유성구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 27,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=32, 정답키감지=27, 정답있는문항=27"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q7: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q12: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_봉황중학교_충청남도 공주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_불암중학교_서울시 노원구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 1,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=1, 정답있는문항=27"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_상명중학교_서울시 노원구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_상일중학교_서울시 강동구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_선린중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_수락중학교_서울시 노원구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 15,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=15, 정답키감지=3, 정답있는문항=15"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_신광여자중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_신반포중학교_서울시 서초구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 23,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_신천중학교_서울시 송파구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q18: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q18: 문제지문이 비정상적으로 길음 (1333자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q19: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q24: 문제지문이 비정상적으로 길음 (852자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q27: 문제지문이 비정상적으로 길음 (1002자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_약사중학교_울산시 중구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q5: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_외솔중학교_울산시 중구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_우성중학교_충청남도 공주시_YBM(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 23,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_울산제일중학교_울산시 중구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 27,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_을지중학교_서울시 노원구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_인천가현중학교_인천시 서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_인천루원중학교_인천시 서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_인천해송중학교_인천시 연수구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q10: 문제지문이 비정상적으로 길음 (816자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_장덕중학교_광주시 광산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=4, 정답있는문항=28"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_진접중학교_경기도 남양주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q24: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_진평중학교_경상북도 구미시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_창문여자중학교_서울시 강북구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=2, 정답있는문항=30"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_창원남중학교_경상남도 창원시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 21,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=21, 정답키감지=4, 정답있는문항=21"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q12: 문제지문이 비정상적으로 길음 (1088자) — 병합 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q18: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_천생중학교_경상북도 구미시_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_청계중학교_경기도 화성시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 22,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q1: 문제지문이 비정상적으로 길음 (965자) — 병합 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q21: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q22: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q23: 문제지문이 비정상적으로 길음 (903자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_청주중학교_충청북도 청주시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_충남중학교_대전시 동구_YBM(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_충북여자중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q3: 문제지문이 비정상적으로 길음 (1026자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q14: 문제지문이 비정상적으로 길음 (1078자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_해누리중학교_서울시 송파구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 29,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 기말_화성동화중학교_경기도 화성시_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=23, 정답키감지=2, 정답있는문항=23"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_공주북중학교_충청남도 공주시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q21: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_공주여자중학교_충청남도 공주시_YBM(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q25: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q26: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_공주중학교_충청남도 공주시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=3, 정답있는문항=28"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 객관식인데 선지 없음"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('③') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q7: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q7: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_광동중학교_경기도 남양주시_천재(정사열).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=2, 정답있는문항=27"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_구남중학교_부산시 북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=31, 정답키감지=3, 정답있는문항=28"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q21: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_구포중학교_부산시 북구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_모동중학교_부산시 사상구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 29,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q28: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_모라중학교_부산시 사상구_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 29,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=32, 정답키감지=29, 정답있는문항=31"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q5: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_번동중학교_서울시 강북구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [3, 4, 5, 6, 7, 8]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=3, 정답있는문항=24"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('③') → 객관식 선지 미검출/분류오류 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_봉은중학교_서울시 강남구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=4, 정답있는문항=25"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q11: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q21: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_봉황중학교_충청남도 공주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 22,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q8: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q19: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q20: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_불암중학교_서울시 노원구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=3, 정답있는문항=29"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q8: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_상명중학교_서울시 노원구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 33,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [3, 4, 5, 6, 7, 8, 9]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=33, 정답키감지=3, 정답있는문항=32"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q5: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_선린중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_신광여자중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q23: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_신도중학교_부산시 해운대구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 29,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_신천중학교_서울시 송파구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=4, 정답있는문항=27"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q8: 문제지문이 비정상적으로 길음 (832자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q10: 문제지문이 비정상적으로 길음 (904자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q11: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_신흥여자중학교_인천시 중구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_옥천중학교_충청북도 옥천군_비상(김진완).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q24: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_위례솔중학교_서울시 송파구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q20: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q21: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q22: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_위례중학교_경기도 하남시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=2, 정답있는문항=23"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q6: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_을지중학교_서울시 노원구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 31,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q30: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_잠신중학교_서울시 송파구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 34,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=34, 정답키감지=28, 정답있는문항=28"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q15: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q18: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q19: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q21: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_장기중학교_경기도 김포시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=26, 정답있는문항=29"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q4: 문제지문이 비정상적으로 길음 (883자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q5: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q7: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q28: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q29: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q30: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_장위중학교_서울시 성북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_창문여자중학교_서울시 강북구_NE능률(김성곤) (1).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 33,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [3, 4, 5, 6, 7, 8]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=33, 정답키감지=3, 정답있는문항=33"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q14: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q25: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_창문여자중학교_서울시 강북구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 33,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [3, 4, 5, 6, 7, 8]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=33, 정답키감지=3, 정답있는문항=33"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q14: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q25: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_창북중학교_서울시 도봉구_NE능률(양현권).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 38,
+    "total_answers": 30,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=38, 정답키감지=30, 정답있는문항=37"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q15: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q34: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_천일중학교_서울시 강동구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 28,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_충북여자중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q18: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_하성중학교_경기도 김포시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [2, 3, 4, 5, 6, 7, 8, 9, 10]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=3, 정답있는문항=26"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 서술형으로 분류됐으나 정답이 번호형('①') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 서술형으로 분류됐으나 정답이 번호형('①') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('③') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q10: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_학성여자중학교_울산시 중구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=2, 정답있는문항=26"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q5: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q22: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_1학기 중간_학장중학교_부산시 사상구_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=2, 정답있는문항=23"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_가림중학교_경기도 광명시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 20,
+    "total_answers": 20,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_공주여자중학교_충청남도 공주시_YBM(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_공주중학교_충청남도 공주시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=24, 정답있는문항=26"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q10: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_군산금강중학교_전라북도 군산시_비상(김진완).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=2, 정답있는문항=25"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q3: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q6: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q17: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q18: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_군산남중학교_전라북도 군산시_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [1, 2, 3, 4, 5, 6, 7, 8, 9]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=3, 정답있는문항=28"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q16: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_군산동원중학교_전라북도 군산시_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_군산월명중학교_전라북도 군산시_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q5: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q21: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_군자중학교_경기도 시흥시_YBM(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=32, 정답키감지=25, 정답있는문항=28"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q27: 문제지문이 비정상적으로 길음 (927자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_다원중학교_경기도 화성시_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=25, 정답있는문항=28"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q14: 문제지문이 비정상적으로 길음 (841자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q27: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q29: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_대건중학교_대구시 달서구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 33,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=33, 정답키감지=3, 정답있는문항=30"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q1: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('③') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_대방중학교_경상남도 창원시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=23, 정답키감지=2, 정답있는문항=22"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q15: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q15: 문제지문이 비정상적으로 길음 (847자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q23: 문제지문이 비정상적으로 길음 (949자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_대전글꽃중학교_대전시 중구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_대전대성여자중학교_대전시 동구_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_대전외삼중학교_대전시 유성구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q7: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_동부중학교_경기도 하남시_천재(정사열).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=25, 정답키감지=3, 정답있는문항=25"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_번동중학교_서울시 강북구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_서울여자중학교_서울시 마포구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 33,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [1, 3, 4]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=33, 정답키감지=4, 정답있는문항=33"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q1: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_성덕중학교_광주시 광산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q20: 문제지문이 비정상적으로 길음 (1856자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_성암여자중학교_서울시 강북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_수완하나중학교_광주시 광산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 29,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q13: 문제지문이 비정상적으로 길음 (1333자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q16: 문제지문이 비정상적으로 길음 (1113자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q28: 문제지문이 비정상적으로 길음 (1266자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_수원중학교_경기도 수원시_YBM(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 20,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=20, 정답키감지=3, 정답있는문항=20"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_신광여자중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q17: 문제지문이 비정상적으로 길음 (1753자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_신길중학교_경기도 안산시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q7: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_신일중학교_서울시 강북구_금성(최인철).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 35,
+    "total_answers": 35,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_신정중학교_부산시 기장군_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=4, 정답있는문항=27"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_신천중학교_서울시 송파구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 39,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=39, 정답키감지=26, 정답있는문항=26"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q10: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q11: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q27: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q28: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q29: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q30: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q31: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q32: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q37: 문제지문이 비정상적으로 길음 (969자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q38: 문제지문이 비정상적으로 길음 (961자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q39: 문제지문이 비정상적으로 길음 (940자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_왕선중학교_대구시 달성군_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=31, 정답키감지=2, 정답있는문항=29"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q6: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q8: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_용현중학교_인천시 미추홀구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_우송중학교_대전시 동구_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_울산중앙중학교_울산시 남구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=32, 정답키감지=26, 정답있는문항=32"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q6: 문제지문이 비정상적으로 길음 (876자) — 병합 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q21: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_울산중학교_울산시 중구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_원봉중학교_충청북도 청주시_비상(김진완).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=25, 정답있는문항=27"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q5: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q9: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_월암중학교_대구시 달서구_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 1,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=32, 정답키감지=1, 정답있는문항=30"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q10: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q19: 문제지문이 비정상적으로 길음 (1834자) — 병합 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q23: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q29: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q30: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q31: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_인창중학교_경기도 구리시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=2, 정답있는문항=26"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q18: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_인천경연중학교_인천시 서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q22: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q23: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_인천청람중학교_인천시 서구_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_인천초은중학교_인천시 서구_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_인천해원중학교_인천시 서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q7: 문제지문이 비정상적으로 길음 (844자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q24: 문제지문이 비정상적으로 길음 (1029자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_장위중학교_서울시 성북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 1,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=1, 정답있는문항=29"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q6: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q11: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_정관중학교_부산시 기장군_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=3, 정답있는문항=25"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q13: 문제지문이 비정상적으로 길음 (1080자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_정신여자중학교_서울시 송파구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 29,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_창원남중학교_경상남도 창원시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=3, 정답있는문항=23"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q16: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q17: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q18: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q19: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_천안쌍용중학교_충청남도 천안시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q18: 문제지문이 비정상적으로 길음 (1342자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q18: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_하늘빛중학교_경기도 김포시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q17: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q22: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 기말_학산중학교_대구시 달서구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 35,
+    "total_answers": 1,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=35, 정답키감지=1, 정답있는문항=30"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q4: 문제지문이 비정상적으로 길음 (1038자) — 병합 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q5: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q5: 문제지문이 비정상적으로 길음 (861자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q6: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q7: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q19: 문제지문이 비정상적으로 길음 (1130자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q24: 문제지문이 비정상적으로 길음 (1359자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q24: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q30: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q32: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_개운중학교_서울시 성북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q10: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_공주영명중학교_충청남도 공주시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=23, 정답키감지=2, 정답있는문항=23"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q15: 서술형으로 분류됐으나 정답이 번호형('①') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q21: 문제지문이 비정상적으로 길음 (807자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_구남중학교_부산시 북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 27,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_구포중학교_부산시 북구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 1,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=25, 정답키감지=1, 정답있는문항=25"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_금천중학교_충청북도 청주시_천재(정사열).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=25, 정답있는문항=26"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q21: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q22: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q23: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q24: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q26: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_대성여자중학교_충청북도 청주시_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_대전지족중학교_대전시 유성구_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_대전하기중학교_대전시 유성구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q24: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_모동중학교_부산시 사상구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 27,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q19: 문제지문이 비정상적으로 길음 (920자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_모라중학교_부산시 사상구_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=2, 정답있는문항=29"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q1: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_복대중학교_충청북도 청주시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [1, 3, 4, 5, 6]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=3, 정답있는문항=27"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q1: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('⑤') → 객관식 선지 미검출/분류오류 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_봉명중학교_충청북도 청주시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_봉황중학교_충청남도 공주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 23,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_산남중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=24, 정답있는문항=26"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q1: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q2: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q6: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q12: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_살레시오중학교_광주시 북구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=24, 정답키감지=2, 정답있는문항=24"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_상명중학교_서울시 노원구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_서경중학교_충청북도 청주시_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q9: 문제지문이 비정상적으로 길음 (808자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_서원중학교_충청북도 청주시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=4, 정답있는문항=29"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q5: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q10: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_서현중학교_충청북도 청주시_YBM(박준언).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=24, 정답있는문항=26"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q8: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q9: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q26: 문제지문이 비정상적으로 길음 (855자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_성암여자중학교_서울시 강북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_성화중학교_충청북도 청주시_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_세광중학교_충청북도 청주시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [1, 3, 4, 5, 6, 7, 8, 9]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=23, 정답키감지=3, 정답있는문항=23"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q1: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 서술형으로 분류됐으나 정답이 번호형('②') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q4: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_솔밭중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=31, 정답키감지=28, 정답있는문항=29"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_수곡중학교_충청북도 청주시_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 22,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_수완중학교_광주시 광산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 33,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=33, 정답키감지=26, 정답있는문항=28"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q23: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q24: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q25: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q28: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q30: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_신광여자중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=25, 정답키감지=2, 정답있는문항=25"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q8: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q17: 문제지문이 비정상적으로 길음 (807자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_신용중학교_광주시 북구_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 5,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=5, 정답있는문항=29"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_신천중학교_서울시 송파구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=26, 정답있는문항=27"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q9: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q12: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q13: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q14: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q19: 문제지문이 비정상적으로 길음 (818자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q22: 문제지문이 비정상적으로 길음 (932자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_심학중학교_경기도 파주시_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q11: 문제지문이 비정상적으로 길음 (828자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_옥계동부중학교_경상북도 구미시_비상(김진완).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q8: 문제지문이 비정상적으로 길음 (1016자) — 병합 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_용두중학교_광주시 북구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 4,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=4, 정답있는문항=29"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q1: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_용성중학교_충청북도 청주시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q14: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_우성중학교_충청남도 공주시_YBM(송미정).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 23,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_울산중앙중학교_울산시 남구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [1, 2, 3, 4, 5]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=3, 정답있는문항=26"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_인천신정중학교_인천시 연수구_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=3, 정답있는문항=29"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q6: 문제지문이 비정상적으로 길음 (990자) — 병합 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q16: 객관식인데 선지 없음"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q19: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_장위중학교_서울시 성북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 29,
+    "total_answers": 26,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=29, 정답키감지=26, 정답있는문항=26"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q6: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q16: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q17: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_주성중학교_충청북도 청주시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q8: 문제지문이 비정상적으로 길음 (906자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_진평중학교_경상북도 구미시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q12: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_창문여자중학교_서울시 강북구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "DUPLICATE_NUMBERS",
+        "detail": "중복 문항번호: [2, 3, 4, 5, 6, 7]"
+      },
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=30, 정답키감지=2, 정답있는문항=30"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q2: 서술형으로 분류됐으나 정답이 번호형('③') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q7: 객관식인데 선지 없음"
+      },
+      {
+        "type": "CHOICES_PARSE_FAIL",
+        "detail": "Q24: 객관식 보기 텍스트 있으나 파싱된 선지 1개"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_창북중학교_서울시 도봉구_NE능률(양현권).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 32,
+    "total_answers": 30,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q22: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q23: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q29: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_창원남중학교_경상남도 창원시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 28,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q21: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q22: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q23: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q23: 문제지문이 비정상적으로 길음 (862자) — 병합 의심"
+      },
+      {
+        "type": "LIKELY_OBJECTIVE_NO_CHOICES",
+        "detail": "Q27: 서술형으로 분류됐으나 정답이 번호형('①') → 객관식 선지 미검출/분류오류 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q30: 문제지문이 비정상적으로 길음 (1202자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_천생중학교_경상북도 구미시_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q3: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q4: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_청주여자중학교_충청북도 청주시_지학사(민찬규).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q6: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q15: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_청주중앙중학교_충청북도 청주시_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 24,
+    "total_answers": 24,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_청주중학교_충청북도 청주시_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 25,
+    "total_answers": 25,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_충북대학교사범대학부설중학교_충청북도 청주시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 2,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=27, 정답키감지=2, 정답있는문항=27"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_충북여자중학교_충청북도 청주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=3, 정답있는문항=26"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q24: 문제지문이 비정상적으로 길음 (941자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_치동중학교_경기도 화성시_천재(이재영).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=23, 정답키감지=3, 정답있는문항=23"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q9: 객관식인데 선지 없음"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q15: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_하안북중학교_경기도 광명시_동아(이병민).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 23,
+    "total_answers": 23,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q12: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q12: 문제지문이 비정상적으로 길음 (950자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q23: 문제지문이 비정상적으로 길음 (965자) — 병합 의심"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_한국교원대학교부설미호중학교_충청북도 청주시_비상(김진완).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 1,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=1, 정답있는문항=26"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중2_2학기 중간_해마루중학교_경상북도 구미시_미래엔(최연희).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 31,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=31, 정답키감지=25, 정답있는문항=26"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q1: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q3: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q18: 객관식인데 선지 없음"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q19: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q21: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_가온중학교_울산시 중구_동아(윤정미)_完.hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 26,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_공주여자중학교_충청남도 공주시_YBM(송미정)_完.hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q11: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q23: 문제지문이 비정상적으로 길음 (1226자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q23: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_봉황중학교_충청남도 공주시_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 20,
+    "total_answers": 20,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_상명중학교_서울시 노원구_NE능률(김성곤).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 30,
+    "total_answers": 30,
+    "issues": []
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_송례중학교_서울시 송파구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 28,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=28, 정답키감지=3, 정답있는문항=28"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_수락중학교_서울시 노원구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 20,
+    "total_answers": 19,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q19: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_수송중학교_서울시 강북구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q5: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_신광여자중학교_서울시 용산구_동아(윤정미).hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 26,
+    "total_answers": 3,
+    "issues": [
+      {
+        "type": "QUESTION_ANSWER_COUNT_MISMATCH",
+        "detail": "문항=26, 정답키감지=3, 정답있는문항=25"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q20: 정답 없음 (answer_source=missing)"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_신천중학교_서울시 송파구_NE능률(김성곤)_完.hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 25,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q6: 문제지문이 비정상적으로 길음 (1423자) — 병합 의심"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q7: 객관식인데 선지 없음"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q7: 문제지문이 비정상적으로 길음 (1070자) — 병합 의심"
+      },
+      {
+        "type": "NO_ANSWER",
+        "detail": "Q8: 정답 없음 (answer_source=missing)"
+      },
+      {
+        "type": "OBJECTIVE_NO_CHOICES",
+        "detail": "Q13: 객관식인데 선지 없음"
+      }
+    ]
+  },
+  {
+    "filename": "2025년_중3_1학기 기말_영동중학교_경기도 수원시_NE능률(김성곤)_完.hwp",
+    "parse_success": true,
+    "parse_method": "olefile",
+    "parse_error": "",
+    "total_questions": 27,
+    "total_answers": 27,
+    "issues": [
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q10: 문제지문이 비정상적으로 길음 (889자) — 병합 의심"
+      },
+      {
+        "type": "SUSPECTED_MERGE",
+        "detail": "Q26: 문제지문이 비정상적으로 길음 (1220자) — 병합 의심"
+      }
+    ]
+  }
+]
